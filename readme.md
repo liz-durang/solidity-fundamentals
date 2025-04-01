@@ -90,7 +90,6 @@
   - [Receive Ether Function](https://docs.soliditylang.org/en/latest/contracts.html#receive-ether-function)
   - [Fallback Function](https://docs.soliditylang.org/en/latest/contracts.html#fallback-function)
 
-## Cómo funciona el Nonce y su impacto en la ejecución
 
 ---
 
@@ -105,6 +104,8 @@
 - [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) (pág 31)
 
 ## Modelo de gas en Ethereum vs L2
+
+- [Layer 2 en Ethereum](https://ethereum.org/es/layer-2/#layer-2-powered-by-ethereum/) 
 
 ## **Técnicas de Optimización de Gas**
 - Uso eficiente de `storage` y `memory`

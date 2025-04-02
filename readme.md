@@ -1,5 +1,7 @@
 
 [Presentación](https://www.canva.com/design/DAGjXXwRSIo/epC9k7ND4_i0gkNZq7nfew/edit?utm_content=DAGjXXwRSIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Transmisión de la Sesión](https://x.com/fruteroclub/status/1907151585152835671)
+[Deploy de Smart Contract en Testnet con Zerion](https://www.loom.com/share/8f9aca828a204f04ba544b0fd60bbac5?sid=e55f7486-fb0a-441d-8320-3044037b7568)
 
 # 1. **Herramientas de Desarrollo**
 
